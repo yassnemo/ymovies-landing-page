@@ -10,9 +10,6 @@ This is a standalone landing page that showcases the [YMovies](https://ymovies.y
 ### Desktop View
 ![Desktop Screenshot](assets/home-page.png)
 
-### Mobile View
-![Mobile Screenshot](assets/ymovies.yerradouani.me_(iPhoneXR).png)
-
 ### AI Feature
 ![Recommendation Engine](assets/recommendation-feature.png)
 
